@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "447079081209",
+    "project_id": "mitok-881c4",
+    "storage_bucket": "mitok-881c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447079081209:android:59538906066d798d376e28",
+        "android_client_info": {
+          "package_name": "com.example.hospital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447079081209-7fckfjjetr5kmrl083l2gfbk5tcouiuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASYk3LcGFtep4hiyGWNfx9skYrn22zOa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447079081209-7fckfjjetr5kmrl083l2gfbk5tcouiuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
